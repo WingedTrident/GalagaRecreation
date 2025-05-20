@@ -1,2 +1,2 @@
 # GalagaRecreation
-Attempting to create the classic galaga recreation in Python using PyGame.
+Attempting to create a classic galaga recreation in Python using PyGame.
